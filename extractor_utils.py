@@ -1,0 +1,1 @@
+# Funciones de extracción de ítems desde PDF o Word
